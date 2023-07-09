@@ -19,9 +19,9 @@ My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen" title=
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,cpp,css,html,typescript,rust)](https://skillicons.dev)
 ### Libraries/Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,flask,express,tailwind,scss,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,flask,express,tailwind,scss,bootstrap,tauri,electron)](https://skillicons.dev)
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,typescript,nodejs,python,react,nextjs,flask,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,thunder,postman)](https://skillicons.dev)
 
 <hr/>
 <div style="display:flex; gap:10">
