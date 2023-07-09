@@ -1,6 +1,6 @@
 # Hello There! 👋
 
-My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen" title="tap to hear">🔊</a> from Pakistan. I am a full-stack web developer, graphic designer, writer, and teacher. My research interests revolve around AI, Computer Vision to build models to be used in healthcare esp. radiology.
+My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen" title="tap to hear">🔊</a>, and I am from Pakistan. I have a diverse skill set that includes full-stack web development, graphic design, writing, and teaching. I am particularly passionate about **AI** and **Computer Vision 🤖 research**, focusing on developing models for healthcare applications, specifically in the field of radiology 🧬.
 
 
 ### About Me
@@ -14,7 +14,7 @@ My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen" title=
 # My Stack
 <hr/>
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <hr/>
 
