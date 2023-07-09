@@ -10,14 +10,16 @@ My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen" title=
  - 🧠 Learning and building ML/Deep Learning models 
  - 🖋️ Write blogs on <a href="https://www.wirelogs.com">Wirelogs</a> 
  - 🤓 Teach coding on YouTube
-
-# My Stack
+ - 
 <hr/>
-Languages:
+
+
+## My Stack
+### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,typescript,nodejs,python,react,nextjs,flask,git)](https://skillicons.dev)
-
-<hr/>
+### Libraries/Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,typescript,nodejs,python,react,nextjs,flask,git)](https://skillicons.dev)
 
 
 <hr/>
