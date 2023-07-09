@@ -14,7 +14,7 @@ My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen" title=
 # My Stack
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,typescript,nodejs,python)](https://skillicons.dev)
 
 <hr/>
 
