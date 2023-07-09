@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Saqlen Mehdi. I am a full-stack developer from Pakistan
+My name is Saqlen Mehdi. I am a full stack developer from Pakistan
 
 
 ### About Me
@@ -8,7 +8,7 @@ My name is Saqlen Mehdi. I am a full-stack developer from Pakistan
  - ‍💼 Working as a full-stack developer
  - 🤖 Passionate about AI in healthcare
  - 🧠 Learning and building ML/Deep Learning models 
- - 🖋️ Write blogs on Wirelogs.com 
+ - 🖋️ Write blogs on <a href="https://www.wirelogs.com">Wirelogs</a> 
  - 🤓 Teach coding on YouTube
 <hr/>
 <div style="display:flex">
