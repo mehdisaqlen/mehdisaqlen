@@ -1,6 +1,6 @@
-# Hello there 👋
+# Hello There! 👋
 
-My name is Saqlen Mehdi. I am a full stack developer from Pakistan
+My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen" title="tap to hear">🔊</a> from Pakistan. I am a full-stack web developer, graphic designer, writer, and teacher. My research interests revolve around AI, Computer Vision to build models to be used in healthcare esp. radiology.
 
 
 ### About Me
