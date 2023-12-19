@@ -3,7 +3,7 @@
 
 # Hello There! 👋
 
-My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen" title="tap to hear">🔊</a>, and I am from Pakistan. I have a diverse skill set that includes full-stack web development, graphic design, writing, and teaching. I am particularly passionate about **AI** and **Computer Vision 🤖 research**, focusing on developing models for healthcare applications, specifically in the field of radiology 🧬.
+My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen%20meh%C3%B0%C9%AA" title="tap to hear">🔊</a>, and I am from Pakistan. I have a diverse skill set that includes full-stack web development, graphic design, writing, and teaching. I am particularly passionate about **AI** and **Computer Vision 🤖 research**, focusing on developing models for healthcare applications, specifically in the field of radiology 🧬.
 
 
 ### About Me
