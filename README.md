@@ -3,13 +3,13 @@
 
 # Hello There! 👋
 
-My name is Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen%20meh%C3%B0%C9%AA" title="tap to hear">🔊</a>, and I am from Pakistan. I have a diverse skill set that includes full-stack web development, graphic design, writing, and teaching. I am particularly passionate about **AI** and **Computer Vision 🤖 research**, focusing on developing models for healthcare applications, specifically in the field of radiology 🧬.
+I am Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen%20meh%C3%B0%C9%AA" title="tap to hear">🔊</a> - a React Developer with expertise in **Next.js, API development, Firebase, MongoDB**, and **Docker** for streamlined app development and deployment. Over the past two years, I've been at the forefront of the AI revolution, specializing in **Computer Vision** and **AI research**. I'm a Software Developer at ASPIRE Pakistan and a contributing researcher at the National AI Think Tank Program.
 
 
 ### About Me
 
- - ‍💼 Working as a full-stack developer
- - 🤖 Passionate about AI in healthcare
+ - ‍💼 Next.Js Developer and Computer Vision Researcher
+ - 🤖 Passionate about AI & Computer Vision
  - 🧠 Learning and building ML/Deep Learning models 
  - 🖋️ Write blogs on <a href="https://www.wirelogs.com">Wirelogs</a> 
  - 🤓 Teach coding on YouTube
