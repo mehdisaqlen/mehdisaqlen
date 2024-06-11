@@ -21,8 +21,12 @@ I am Saqlen Mehdi <a href="http://ipa-reader.xyz/?text=s%CA%8Cklen%20meh%C3%B0%C
 ### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,cpp,css,html,typescript,rust)](https://mehdisaqlen.github.io/)
-### Libraries/Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,flask,pytorch,tensorflow,mongodb,express,tailwind,scss,bootstrap,tauri,electron)](https://mehdisaqlen.github.io/)
+### Libraries/Frameworks (Fullstack Web Dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,flask,mongodb,express,tailwind,scss,bootstrap,tauri,electron)](https://mehdisaqlen.github.io/)
+
+### Libraries/Frameworks (Deep Learning/Computer Vision)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,keras)](https://mehdisaqlen.github.io/)
+
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,bash,ps,xd)](https://mehdisaqlen.github.io/)
 
